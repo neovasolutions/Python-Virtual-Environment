@@ -21,4 +21,4 @@ Now you can install packages as needed with `pip install <package-name>`
 All the instructions for how to go about building the project with virtual environment are [here](https://github.com/neovasolutions/Python-Virtual-Environment/blob/master/docs/Python_Neova.pdf)
 
 #### NOTE
-This project includes `.gitignore` file that ignores the virtual environment dependencies. Dependencies can be managed as described in the instructions document in `docs/` folder.
+This project includes `.gitignore` file that ignores the virtual environment dependencies. Dependencies can be managed as described in the [instructions](https://github.com/neovasolutions/Python-Virtual-Environment/blob/master/docs/Python_Neova.pdf) document.
