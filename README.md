@@ -12,5 +12,5 @@ where `myproj` is the name of your project.
 
 All the instructions about how to go about building the project with virtual environment are [here](https://github.com/neovasolutions/Python-Virtual-Environment/blob/master/docs/Python_Neova.pdf)
 
-# NOTE
+#### NOTE
 This project includes `.gitignore` file that ignores the virtual environment dependencies. Dependencies can be managed as described in the instructions document in `docs/` folder.
