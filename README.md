@@ -9,6 +9,14 @@ You may start a new project by cloning this project as:
 
 where `myproj` is the name of your project.
 
+`cd myproj`
+
+`python3.6 -m venv _venv_`
+
+`source _venv_/bin/activate`
+
+Now you can install packages as needed with `pip install <package-name>`
+
 
 All the instructions about how to go about building the project with virtual environment are [here](https://github.com/neovasolutions/Python-Virtual-Environment/blob/master/docs/Python_Neova.pdf)
 
