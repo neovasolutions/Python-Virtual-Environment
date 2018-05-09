@@ -1,2 +1,6 @@
 # ignore directories:
 _venv_/
+.idea/
+.pytest_cache/
+__pycache__/
+tmp/
